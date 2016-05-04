@@ -18,3 +18,4 @@ I would like to remember that this method still **has to be tested**, so please,
 * Auto-Sell Items
 * Auto-Buy Items
 
+`Some of the Features of this LUA Modification might be Improved (IF possible) Directly on Pyx. To be updated view the Forum Thread`
