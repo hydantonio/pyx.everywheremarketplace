@@ -8,11 +8,11 @@ This .LUA Modification will enable the Marketplace Actions (Selling, Collecting,
 I would like to remember that this method still **has to be tested**, so please, read the Official Forum Thread to leave a Feedback.
 
 
-** LUA Features **
+**LUA Features**
 * Enable the Marketplace Use of the ESC Menù
 * Markeplace Selling/Buying/Money-Collecting from Everywhere
 
-** To-do List **
+**To-do List**
 * Include the Market-Sniper Script
 * Auto-Silver Collection
 * Auto-Sell Items
