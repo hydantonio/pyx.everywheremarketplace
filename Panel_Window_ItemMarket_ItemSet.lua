@@ -1,6 +1,7 @@
 
 -- | Enabled Everywhere Purchase / Sell | --
 -- | .LUA Modification created by Nocto | --
+-- | Current Modification Version 0.10a | --
 
 local UI_TM			= CppEnums.TextMode
 
